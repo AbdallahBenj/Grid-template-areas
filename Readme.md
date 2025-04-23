@@ -29,6 +29,6 @@ To test and explore the grid layout:
 
 Or check it live here:
 
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://abdallahbenj.github.io/Grid-template-areas/)
 
 ## Master layout control with Grid Template Areas – powerful, readable, and responsive! 📐💡🖥️
